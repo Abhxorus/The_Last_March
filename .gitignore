@@ -1,0 +1,17 @@
+# Carpetas autogeneradas y locales de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcworkspace
+*.DS_Store
+
+# Ignorar archivos de logs y crash
+*.log
+*.crash
